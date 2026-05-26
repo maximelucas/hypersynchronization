@@ -3,7 +3,7 @@
 ![PyPI - Version](https://img.shields.io/pypi/v/hypersynchronization?color=green)
 ![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2Fmaximelucas%2Fhypersynchronization%2Frefs%2Fheads%2Fmain%2Fpyproject.toml&color=green)
 [![Test Status](https://github.com/maximelucas/hypersynchronization/actions/workflows/test-code.yml/badge.svg)](https://github.com/maximelucas/hypersynchronization/actions/workflows/test-code.yml)
-![Read the Docs](https://img.shields.io/readthedocs/hypersynchronization)
+![Read the Docs](https://img.shields.io/readthedocs/hypersynchronization?color=green)
 
 hypersynchronization is a Python library for the simulation, analysis, and visualization of oscillators with group (higher-order) interactions.
 
